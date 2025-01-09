@@ -2,6 +2,7 @@
 
 UrbanSoundAI is a deep learning-based web application for classifying urban sounds. This application uses a trained model to predict sound classes from uploaded `.wav` audio files. The app is built using **Streamlit** for the frontend and supports interactive audio playback and prediction.
 
+Project Link: https://audio-sound-predictor-mxbgprptbzfgd8mkxvfrfm.streamlit.app/
 ---
 
 ## Features
