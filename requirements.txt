@@ -1,4 +1,5 @@
-streamlit      # For building the interactive web application
-tensorflow    # For loading the model and making predictions
-librosa   # For audio feature extraction
-numpy          # For numerical operations
+librosa
+resampy
+numpy
+tensorflow
+streamlit
